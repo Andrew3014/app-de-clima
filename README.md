@@ -68,22 +68,6 @@ Mensaje de error (ciudad inexistente):
      flutter run
      ```
 
-## Subir el proyecto a GitHub
-
-1. **Agrega todos los archivos al repositorio:**
-   ```sh
-   git add .
-   ```
-2. **Haz tu primer commit:**
-   ```sh
-   git commit -m "Proyecto app del clima Flutter"
-   ```
-3. **Sube los cambios a tu repositorio remoto:**
-   ```sh
-   git push -u origin main
-   ```
-   > Si tu rama principal se llama `master`, reemplaza `main` por `master`.
-
 ## Notas
 - Si tienes problemas con dependencias, ejecuta `flutter pub get` nuevamente.
 - Si tienes problemas con permisos en Windows, asegúrate de tener el modo desarrollador activado.
